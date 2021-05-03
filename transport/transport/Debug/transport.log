@@ -1,0 +1,11 @@
+﻿  Mobility.cpp
+  Omobility.cpp
+  transport.cpp
+C:\Users\Zauri\source\repos\transport\transport\transport.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\transport\transport\transport.cpp(9,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\transport\transport\transport.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\transport\transport\transport.cpp(17,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\transport\transport\transport.cpp(41,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\transport\transport\transport.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  transport.vcxproj -> C:\Users\Zauri\source\repos\transport\Debug\transport.exe
